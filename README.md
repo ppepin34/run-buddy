@@ -12,3 +12,5 @@ https://ppepin34.github.io/run-buddy/
 
 # Contribution
 Made with ❤️ by Phil Pepin
+
+### ©️2019 Run Buddy, Inc

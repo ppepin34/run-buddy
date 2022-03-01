@@ -1,16 +1,16 @@
 # Run Buddy, Inc
 
 ## Purpose
-A webiste that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
 * CSS
 
 ## Website
-https://ppepin34.github.io/run-buddy/
+https://lernantino.github.io/run-buddy/
 
-# Contribution
-Made with ❤️ by Phil Pepin
+## Contribution
+Made with ❤️ by [your name]
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc 
